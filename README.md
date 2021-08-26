@@ -1,4 +1,5 @@
 # Sharp U-Net: Depthwise Convolutional Network for Biomedical Image Segmentation
+
 This code is part of the supplementary materials for our paper *Sharp U-Net* published in Computers in Biology and Medicine, 2021.
 
 Sharp U-Net is a new encoder-decoder depthwise fully convolutional network architecture for
