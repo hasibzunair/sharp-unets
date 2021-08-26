@@ -33,7 +33,7 @@ Model architecture code is available in the demo notebook for binary image segme
 ## Citation
 If you use this code or models in your scientific work, please cite the following paper:
 
-```
+```bibtex
 @article{zunair2021sharp,
   title={Sharp U-Net: Depthwise Convolutional Network for Biomedical Image Segmentation},
   author={Zunair, Hasib and Hamza, A Ben},
