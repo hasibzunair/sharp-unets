@@ -1,7 +1,7 @@
 # Sharp U-Net: Depthwise Convolutional Network for Biomedical Image Segmentation
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
-[![Open In Colab][colab-badge]](https://colab.research.google.com/github/hasibzunair/sharp-unets/blob/main/demo.ipynb)
+[![Open In Colab][colab-badge]](https://colab.research.google.com/github/hasibzunair/sharp-unets/blob/master/demo.ipynb)
 
 This code is part of the supplementary materials for our paper *Sharp U-Net* published in Computers in Biology and Medicine, 2021.
 
