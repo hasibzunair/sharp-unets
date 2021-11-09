@@ -5,6 +5,10 @@
 
 This code is part of the supplementary materials for our paper *Sharp U-Net* published in Computers in Biology and Medicine, 2021.
 
+## Resources
+* [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482521004935)
+* [Preprint](https://arxiv.org/abs/2107.12461)
+
 Sharp U-Net is a new encoder-decoder depthwise fully convolutional network architecture for
 binary and multi-class image segmentation. The core idea is to convolve the output of the encoder feature map with a sharpening
 spatial kernel/filter, prior to performing fusion with the decoder features in the skip connections.
@@ -25,10 +29,6 @@ make the encoder and decoder features semantically less dissimilar, but also hel
     Figure 2. Schematic layout of the Sharp U-Net architecture.
     </em>
 </p>
-
-## Resources
-* [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482521004935)
-* [Preprint](https://arxiv.org/abs/2107.12461)
 
 ## Colab Notebook Demo
 Model architecture code is available in the demo notebook for binary image segmentation use-case, which runs on Colab! Can be easily adapted for multi-class image segmentation.
